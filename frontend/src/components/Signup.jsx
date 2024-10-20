@@ -120,7 +120,7 @@ function Signup() {
                   <Login />
                 </p>
               </div>
-              </form>
+            </form>
           </div>
         </div>
       </div>
